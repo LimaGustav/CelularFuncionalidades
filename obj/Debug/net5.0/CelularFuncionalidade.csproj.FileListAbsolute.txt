@@ -1,0 +1,16 @@
+C:\Users\Jhonatan\Desktop\CelularFuncionalidade\bin\Debug\net5.0\CelularFuncionalidade.exe
+C:\Users\Jhonatan\Desktop\CelularFuncionalidade\bin\Debug\net5.0\CelularFuncionalidade.deps.json
+C:\Users\Jhonatan\Desktop\CelularFuncionalidade\bin\Debug\net5.0\CelularFuncionalidade.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\CelularFuncionalidade\bin\Debug\net5.0\CelularFuncionalidade.runtimeconfig.dev.json
+C:\Users\Jhonatan\Desktop\CelularFuncionalidade\bin\Debug\net5.0\CelularFuncionalidade.dll
+C:\Users\Jhonatan\Desktop\CelularFuncionalidade\bin\Debug\net5.0\ref\CelularFuncionalidade.dll
+C:\Users\Jhonatan\Desktop\CelularFuncionalidade\bin\Debug\net5.0\CelularFuncionalidade.pdb
+C:\Users\Jhonatan\Desktop\CelularFuncionalidade\obj\Debug\net5.0\CelularFuncionalidade.csprojAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\CelularFuncionalidade\obj\Debug\net5.0\CelularFuncionalidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Desktop\CelularFuncionalidade\obj\Debug\net5.0\CelularFuncionalidade.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\CelularFuncionalidade\obj\Debug\net5.0\CelularFuncionalidade.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\CelularFuncionalidade\obj\Debug\net5.0\CelularFuncionalidade.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\CelularFuncionalidade\obj\Debug\net5.0\CelularFuncionalidade.dll
+C:\Users\Jhonatan\Desktop\CelularFuncionalidade\obj\Debug\net5.0\ref\CelularFuncionalidade.dll
+C:\Users\Jhonatan\Desktop\CelularFuncionalidade\obj\Debug\net5.0\CelularFuncionalidade.pdb
+C:\Users\Jhonatan\Desktop\CelularFuncionalidade\obj\Debug\net5.0\CelularFuncionalidade.genruntimeconfig.cache
